@@ -1,1 +1,1 @@
-[About me] https://github.com/paulwsantos
+[About me](https://github.com/paulwsantos)
